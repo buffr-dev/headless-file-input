@@ -2,7 +2,10 @@
   "name": "@buffr-dev/headless-file-input",
   "version": "0.0.1",
   "description": "Headless and unstyled file input component for React.",
-  "main": "index.js",
+  "source": "./src/index.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": "./dist/index.js",
   "scripts": {
     "build": "tsc -p tsconfig.jsonc  --jsx react"
   },
