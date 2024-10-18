@@ -2,6 +2,11 @@ This headless component is an ultra-lightweight wrapper around HTML input to mak
 
 Intended to be used with `@buffr-dev/next` - coming soon!
 
+## Install
+```
+npm install @buffr-dev/headless-file-input
+```
+
 ## HeadlessFileInput
 
 `HeadlessFileInput` accepts the following props that are propagated to its children in a pragmatic way:
